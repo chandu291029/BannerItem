@@ -1,0 +1,25 @@
+.card {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reusable-banners-card-1-bg.png');
+  height: 30vh;
+  width: 90vw;
+  background-size: cover;
+  border: 1px solid blue;
+  padding-right: 2px;
+  margin-bottom: 5px;
+}
+
+.card2 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reusable-banners-card-2-bg.png');
+  height: 30vh;
+  width: 90vw;
+  background-size: cover;
+  border: 1px solid blue;
+}
+
+.card3 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reusable-banners-card-3-bg.png');
+  height: 30vh;
+  width: 90vw;
+  background-size: cover;
+  border: 1px solid blue;
+}
